@@ -1,0 +1,2 @@
+# Exam-Conducting-Module
+ Created a program using C++ to conduct exams by using file handling concepts. By this, a person can easily generate random sets of questions for the students and also update their scores for further reference. This also has a login system for each student data. It can generate random questions from three types of file descriptive questions, mcq questions or analytical questions. the generated test will be in doc file and ready to be printed. 
