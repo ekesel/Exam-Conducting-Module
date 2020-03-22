@@ -1,0 +1,12 @@
+What is c++?
+What is class?
+What are different features of c++?
+Explain Constructor?
+What is a function?
+Explain inline function?
+What is function overloading?
+What is implicit and explicit type conversion?
+What is inheritance in c++?
+Name different types of inheritance in c++?
+What is friend function?
+What is a friend class?

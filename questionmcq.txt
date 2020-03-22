@@ -1,0 +1,26 @@
+Which of the following type is provided by C++ but not C?
+a) int b) bool c) float d) double
+Which of the following feature is not provided by C?
+a) Pointers b) Structures c) References d) Functions
+Which operator is overloaded for a cout object?
+a) >> b) << c) < d) >
+Which of the following cannot be used with the virtual keyword?
+a) Class b) Member functions c) Constructors d) Destructors
+Which concept is used to implement late binding?
+a) Virtual functions b) Operator functions c) Constant functions d) Static functions
+Which of the following is correct?
+a) C++ allows static type checking b) C++ allows dynamic type checking. c) C++ allows static member function to be of type const. d) C++ allows both static and dynamic type checking
+Which of the following supports the concept that reusability is a desirable feature of a language?
+a) It reduces the testing time b) It reduces maintenance cost c) It decreases the compilation time d) It reduced both testing and maintenance time
+Which of the following is a static polymorphism mechanism?
+a) Function overloading b) Operator overloading c) Templates d) All of the mentioned
+Which of the following is not a type of inheritance?
+a) Multiple b) Multilevel c) Distributive d) Hierarchical
+What happens if a class does not have a name?
+a) It will not have a constructor b) It will not have a destructor c) It is not allowed d) It will neither have a constructor or destructor
+Which members are inherited but are not accessible in any case?
+a) Private b) Public c) Protected d) Both private and protected
+Which of the following class allows to declare only one object of it?
+a) Abstract class b) Virtual class c) Singleton class d) Friend class
+Which of the following cannot be a friend?
+a) Function b) Class c) Object d) Operator function

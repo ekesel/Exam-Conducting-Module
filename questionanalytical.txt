@@ -1,0 +1,12 @@
+Explain the algorithm of binary search and give a example of it.
+Explain the algorithm of bubble sort?
+Which is better linear search or binary search and explain why?
+What will i and j equal after the code below is executed? Explain your answer.  int i = 5; int j = i++;
+Is there a difference between class and struct?
+What is a storage class?
+How can a C function be called in a C++ program?
+What is this pointer?
+What are the differences between references and pointers?
+What are virtual functions – Write an example?
+How is an Array different from Linked List?
+What is a Queue, how it is different from stack and how is it implemented?
